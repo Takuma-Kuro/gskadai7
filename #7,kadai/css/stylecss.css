@@ -1,0 +1,158 @@
+body{
+    
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+}
+#board{
+    position:fixed;    top:0; left:0; width:100%; height:100%; 
+}
+#body{
+    position:absolute; top:0; left:0; 
+}
+.isbnresearch{
+    background-color: rgb(255, 255, 221);
+    padding: 30px 0 30px 100px;
+    width: 600px;
+    
+    display: flex;
+    
+}
+.isbn1{
+    width: 140px;
+}
+#isbn{
+    width: 350px;
+}
+#thumbnail{
+    text-align: center;
+}
+.title_output{
+    background-color: rgb(243, 241, 241);
+    width: 600px;
+    padding: 10px 0 10px 100px;
+    display: flex;
+    
+}
+.title1{
+    width: 140px;
+}
+#title2{
+    width: 350px;
+}
+.publisher_output{
+    background-color: rgb(243, 241, 241);
+    width: 600px;
+    padding: 10px 0 10px 100px;
+    display: flex;
+    
+}
+.publisher1{
+    width: 140px;
+}
+#publisher2{
+    width: 350px;
+}
+.volume_output{
+    width: 600px;
+    padding: 10px 0 10px 100px;
+    display: flex;
+    
+}
+.volume1{
+    width: 140px;
+}
+#volume2{
+    width: 350px;
+}
+.series_output{
+    background-color: rgb(243, 241, 241);
+    width: 600px;
+    padding: 10px 0 10px 100px;
+    display: flex;
+    
+}
+.series1{
+    width: 140px;
+}
+
+#series2{
+    width: 350px;
+    
+}
+.author_output{
+    width: 600px;
+    padding: 10px 0 10px 100px;
+    display: flex;
+    
+}
+.author1{
+    width: 140px;
+}
+#author2{
+    width: 350px;
+}
+.pubdate_output{
+    background-color: rgb(243, 241, 241);
+    width: 600px;
+    padding: 10px 0 10px 100px;
+    display: flex;
+    
+}
+.pubdate1{
+    width: 140px;
+}
+#pubdate2{
+    width: 350px;
+}
+.cover_output{
+    width: 600px;
+    padding: 10px 0 10px 100px;
+    display: flex;
+    
+}
+.cover1{
+    
+    width: 140px;
+}
+#cover2{
+    width: 350px;
+}
+.description_output{
+    background-color: rgb(243, 241, 241);
+    width: 600px;
+    padding: 10px 0 10px 100px;
+    display: flex;
+    
+}
+.description1{
+    width: 140px;
+}
+#description2{
+    width: 350px;
+    height: 200px;
+}
+.reading{
+    text-align: right;
+}
+header{
+    height: 50px;
+    color: rgb(248, 167, 167);
+}
+
+.idb{
+    display: flex;
+}
+th,td{
+    border:double 2px #2196f3;
+}
+th{
+    font-size: 10px;
+    width: 40px;
+}
+#header2{
+    font-size: 30px;
+}

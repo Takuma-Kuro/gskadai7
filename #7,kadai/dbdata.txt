@@ -1,0 +1,18 @@
+-- phpMyAdmin SQL Dump
+-- version 4.9.4
+-- https://www.phpmyadmin.net/
+--
+-- ホスト: mysql****.db.sakura.ne.jp
+-- 生成日時: 2020 年 2 月 26 日 19:44
+-- サーバのバージョン： 5.7.28-log
+-- PHP のバージョン: 7.1.18SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
+SET time_zone = "+00:00";/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;--
+-- データベース: `******_***`
+--
+CREATE DATABASE IF NOT EXISTS `******_***` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `******_***`;
